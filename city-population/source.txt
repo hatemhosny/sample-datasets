@@ -1,0 +1,9 @@
+https://github.com/datasets/population-city
+https://github.com/datasets/population-city/blob/master/data/unsd-citypopulation-year-both.csv
+
+
+License
+This data package is licensed under a ODC Public Domain Dedication and Licence (PDDL).
+
+Data
+Source: UNData. UNSD Demographic Statistics.

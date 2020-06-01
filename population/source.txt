@@ -1,0 +1,10 @@
+https://github.com/datasets/population
+https://github.com/datasets/population/blob/master/data/population.csv
+
+
+License
+This Data Package is licensed by its maintainers under the Public Domain Dedication and License (PDDL).
+
+
+Data
+The data is sourced from this World Bank dataset which in turn lists as sources: (1) United Nations Population Division. World Population Prospects, (2) United Nations Statistical Division. Population and Vital Statistics Reprot (various years), (3) Census reports and other statistical publications from national statistical offices, (4) Eurostat: Demographic Statistics, (5) Secretariat of the Pacific Community: Statistics and Demography Programme, and (6) U.S. Census Bureau: International Database.

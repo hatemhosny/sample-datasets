@@ -1,0 +1,10 @@
+https://github.com/datasets/inflation
+https://github.com/datasets/inflation/blob/master/data/inflation-gdp.csv
+
+
+License
+This Data Package is licensed by its maintainers under the Public Domain Dedication and License (PDDL).
+
+
+Data
+The data comes from The World Bank (CPI), The World Bank (GDP) and is collected from 1973 to 2014. There are some values missing from data so users of the data will have to guess what should be in the empty slots.

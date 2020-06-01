@@ -1,0 +1,5 @@
+https://github.com/datasets/exchange-rates
+https://github.com/datasets/exchange-rates/blob/master/data/monthly.csv
+
+License
+Licensed under the Public Domain Dedication and License (assuming either no rights or public domain license in source data).
