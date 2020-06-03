@@ -1,0 +1,4 @@
+http://www.childmortality.org/
+
+https://sejdemyr.github.io/r-tutorials/basics/wide-and-long/
+https://github.com/sejdemyr/sejdemyr.github.io/blob/master/r-tutorials/basics/data/unicef-u5mr.csv
