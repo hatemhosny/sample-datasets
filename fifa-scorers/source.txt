@@ -1,0 +1,6 @@
+https://github.com/lucianomcsilva/zeetha-bar-chart-race
+https://github.com/lucianomcsilva/zeetha-bar-chart-race/blob/master/wiki-fwc.json
+
+
+scrapped from wikipedia
+https://github.com/lucianomcsilva/zeetha-bar-chart-race/blob/master/wiki-data.js

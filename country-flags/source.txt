@@ -1,0 +1,14 @@
+https://flagpedia.net/
+https://flagpedia.net/download
+https://flagpedia.net/data/flags/w2560.zip
+https://flagpedia.net/data/flags/vector-svg.zip
+https://flagpedia.net/download/country-codes-case-upper.json
+https://flagpedia.net/download/country-codes-case-lower.json
+
+
+
+Source
+Flag images are based on vector files from Wikipedia Commons. We are automatically notified of changes and manually review them before processing.
+
+License
+Flag images are in the public domain (exempt from copyright). You can also download all flags for non-commercial and even commercial use for free. If it is possible, please indicate the source Flagpedia.net, thanks!
